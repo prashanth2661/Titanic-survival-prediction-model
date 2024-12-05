@@ -1,4 +1,4 @@
-**Titanic Survival Prediction**
+##Titanic Survival Prediction##
 
 This project aims to predict whether a passenger on the Titanic survived or not using a logistic regression model. The dataset used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
 
